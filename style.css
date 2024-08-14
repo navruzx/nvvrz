@@ -1,0 +1,51 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color: white;
+    height: 600px;
+    gap: 10px;
+   margin-left: 600px;
+   margin-top: 100px;
+}
+div {
+background-color: black;
+width: 400px;
+height: 200px;
+display: flex;
+font-size: 50px;
+color: white;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+
+}
+.a {
+    background-color: aqua;
+}
+.b {
+    background-color: orange;
+}
+.d {
+    background-color: blue;
+}
+.e {
+    background-color: yellow;
+}
+.f {
+    background-color: violet;
+}
+.g {
+    background-color: green;
+}
+.h {
+    background-color: brown;
+}
+.i {
+    background-color: aquamarine;
+}
+.j {
+    background-color: bisque;
+    
+}
+
+
